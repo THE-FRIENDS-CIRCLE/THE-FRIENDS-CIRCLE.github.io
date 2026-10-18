@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.thefriends.app",
       "sha256_cert_fingerprints": [
-        "66:D5:7C:9F:52:D6:12:AA:F5:3A:8A:02:6E:7E:86:3D:14:5A:35:19:35:55:29:5B:9E:B0:5F:48:BC:31:EB:AE"
+        "66:D5:7C:9F:52:D6:12:AA:F5:3A:8A:02:6E:7E:86:3D:14:5A:35:19:35:55:29:5B:9E:B0:5F:48:BC:31:EB:AE",
+        "56:AE:F9:93:BE:A8:18:E1:B2:EE:1C:1B:BC:3A:9F:3D:B9:D0:C5:14:D4:EA:50:4E:79:D6:D7:B4:82:27:BA:90"
       ]
     }
   }
